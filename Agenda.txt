@@ -7,3 +7,4 @@
 7. Git Gui & gitk
 8. Inside .git folder
 9. Undoing changes
+10. Git reset
