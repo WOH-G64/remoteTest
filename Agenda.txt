@@ -6,3 +6,4 @@
 6. Pull from remote
 7. Git Gui & gitk
 8. Inside .git folder
+9. Undoing changes
