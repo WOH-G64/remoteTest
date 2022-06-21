@@ -1,0 +1,8 @@
+1. VCS concept
+2. Version control types
+3. Why Git
+4. Download, install, configure
+5. Create a github repo and clone it
+6. Pull from remote
+7. Git Gui & gitk
+8. Inside .git folder
