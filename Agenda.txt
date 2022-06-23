@@ -10,3 +10,4 @@
 10. Git reset
 11. Git revert
 12. .gitignore
+13. Branching and merge
