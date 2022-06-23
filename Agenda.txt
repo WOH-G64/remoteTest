@@ -8,3 +8,5 @@
 8. Inside .git folder
 9. Undoing changes
 10. Git reset
+11. Git revert
+12. .gitignore
