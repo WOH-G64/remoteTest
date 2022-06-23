@@ -11,3 +11,4 @@
 11. Git revert
 12. .gitignore
 13. Branching and merge
+14. Conflict solving
