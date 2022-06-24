@@ -13,4 +13,7 @@
 13. Branching and merge
 14. Conflict solving
 15. Rebase
+16. Cherry-pick
+17. Tags
+18. Stashing
 
