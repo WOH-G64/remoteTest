@@ -16,4 +16,7 @@
 16. Cherry-pick
 17. Tags
 18. Stashing
+19. Remotes
+20. Branching strategies
+21. Extras
 
